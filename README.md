@@ -36,9 +36,8 @@ You can view the live project [here](YOUR_LIVE_DEMO_LINK_HERE).
 
 Below are some snapshots of the project in action:
 
-![Gallery Screenshot 1](<img width="1379" height="892" alt="Image" src="https://github.com/user-attachments/assets/f169fa3b-b0b0-4dce-b12b-6bd452fb390a" />)
-![Gallery Screenshot 2](LINK_TO_IMAGE_2)
-![Gallery Screenshot 3](LINK_TO_IMAGE_3)
+<img width="1379" height="892" alt="Image" src="https://github.com/user-attachments/assets/f169fa3b-b0b0-4dce-b12b-6bd452fb390a" />
+
 
 To run this project locally, simply clone the repository and open index.html in your browser.
 ```bash
